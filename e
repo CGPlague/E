@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RedJDark/MAIN/refs/heads/main/JDARKHUB.txt"))()
+loadstring(game:HttpGet("https://pastefy.app/iDVE5ubi/raw"))()
